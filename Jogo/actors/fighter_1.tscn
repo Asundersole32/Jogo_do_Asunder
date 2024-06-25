@@ -1,0 +1,361 @@
+[gd_scene load_steps=77 format=3 uid="uid://8buwas2c2mb7"]
+
+[ext_resource type="Texture2D" uid="uid://bplj4ptdxmgh0" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Dive_kick/dive_kick1.png" id="1_p2l6j"]
+[ext_resource type="Texture2D" uid="uid://chtnhcmx7lb7e" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Dive_kick/dive_kick2.png" id="2_g2ooa"]
+[ext_resource type="Texture2D" uid="uid://b3gy3mi887hrj" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Dive_kick/dive_kick3.png" id="3_4l0bs"]
+[ext_resource type="Texture2D" uid="uid://1y22irq6jhqc" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Dive_kick/dive_kick4.png" id="4_6ndt5"]
+[ext_resource type="Texture2D" uid="uid://c0ko7wf3os28q" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Dive_kick/dive_kick5.png" id="5_hwrtj"]
+[ext_resource type="Texture2D" uid="uid://cwdj85f7xwqoj" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Jump/jump4.png" id="6_84dwo"]
+[ext_resource type="Texture2D" uid="uid://gn7gnvkjhkoq" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Idle/idle1.png" id="7_7klca"]
+[ext_resource type="Texture2D" uid="uid://buxh8pijmb140" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Idle/idle2.png" id="8_8tprd"]
+[ext_resource type="Texture2D" uid="uid://cljq68q2hwqnv" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Idle/idle3.png" id="9_26seu"]
+[ext_resource type="Texture2D" uid="uid://wsok4ckwb6d7" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Idle/idle4.png" id="10_hllni"]
+[ext_resource type="Texture2D" uid="uid://bpvjpc03cwv5m" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Jump/jump1.png" id="11_w7c7d"]
+[ext_resource type="Texture2D" uid="uid://bllf0kp1tur4h" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Jump/jump2.png" id="12_j6dmm"]
+[ext_resource type="Texture2D" uid="uid://b0glhhxepoac8" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Jump/jump3.png" id="13_5i4mk"]
+[ext_resource type="Texture2D" uid="uid://dtrsg0q04fod1" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Kick/kick1.png" id="14_35n4x"]
+[ext_resource type="Texture2D" uid="uid://drs805t4vmdwh" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Kick/kick2.png" id="15_ffwiu"]
+[ext_resource type="Texture2D" uid="uid://walc7dqmxqk7" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Kick/kick3.png" id="16_wqap8"]
+[ext_resource type="Texture2D" uid="uid://bv4xml0l8cr80" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Kick/kick4.png" id="17_foy3k"]
+[ext_resource type="Texture2D" uid="uid://bbuotqkdrl8ep" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Kick/kick5.png" id="18_o2scq"]
+[ext_resource type="Texture2D" uid="uid://cj3xtr7luv4py" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Punch/punch1.png" id="19_6gn00"]
+[ext_resource type="Texture2D" uid="uid://kkkwnmaf512x" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Punch/punch2.png" id="20_2bkpb"]
+[ext_resource type="Texture2D" uid="uid://2odwk54ubh70" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Punch/punch3.png" id="21_dyntl"]
+[ext_resource type="Texture2D" uid="uid://cnv6ue1sfi5cb" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Jump_kick/jump_kick1.png" id="22_t8w81"]
+[ext_resource type="Texture2D" uid="uid://dcwfet16dl7nh" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Jump_kick/jump_kick2.png" id="23_t6j61"]
+[ext_resource type="Texture2D" uid="uid://cxkenmbnie1vb" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Jump_kick/jump_kick3.png" id="24_aren3"]
+[ext_resource type="Texture2D" uid="uid://boa5401feox5l" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Jab/jab1.png" id="25_bbggk"]
+[ext_resource type="Texture2D" uid="uid://dlmtmy0oktu6x" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Jab/jab2.png" id="26_env4c"]
+[ext_resource type="Texture2D" uid="uid://cdnym0nuukc0v" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Jab/jab3.png" id="27_qj03l"]
+[ext_resource type="Texture2D" uid="uid://bsh2c6mk8r50t" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Walk/walk1.png" id="28_3xohk"]
+[ext_resource type="Texture2D" uid="uid://cxj7b24w2gl6m" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Walk/walk2.png" id="29_uyv8x"]
+[ext_resource type="Texture2D" uid="uid://dm6qtywyggnpw" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Walk/walk3.png" id="30_a83mp"]
+[ext_resource type="Texture2D" uid="uid://beje5c4hgjhc6" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Walk/walk4.png" id="31_t17ks"]
+[ext_resource type="Texture2D" uid="uid://crv6d48f4cqym" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Walk/walk5.png" id="32_3i26v"]
+[ext_resource type="Texture2D" uid="uid://b52qkijy30ki7" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Walk/walk6.png" id="33_o8bri"]
+[ext_resource type="Texture2D" uid="uid://crd5u87ltic8n" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Walk/walk7.png" id="34_jwsxa"]
+[ext_resource type="Texture2D" uid="uid://d0gvhf6p777fj" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Walk/walk8.png" id="35_alkxn"]
+[ext_resource type="Texture2D" uid="uid://bo63sitiqtreo" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Walk/walk9.png" id="36_mak1w"]
+[ext_resource type="Texture2D" uid="uid://bqutvirfr26re" path="res://assets/Streets of Fight files/Streets of Fight files/Sprites/Brawler-Girl/Walk/walk10.png" id="37_twgro"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_5yo7q"]
+atlas = ExtResource("1_p2l6j")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_q0jw8"]
+atlas = ExtResource("2_g2ooa")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_vnrsx"]
+atlas = ExtResource("3_4l0bs")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_eatki"]
+atlas = ExtResource("4_6ndt5")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_f454f"]
+atlas = ExtResource("5_hwrtj")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_8wxas"]
+atlas = ExtResource("6_84dwo")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_x8lkt"]
+atlas = ExtResource("7_7klca")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_1tclx"]
+atlas = ExtResource("8_8tprd")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_hck54"]
+atlas = ExtResource("9_26seu")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_jehw4"]
+atlas = ExtResource("10_hllni")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ivwp8"]
+atlas = ExtResource("11_w7c7d")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_tiu7a"]
+atlas = ExtResource("12_j6dmm")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_eqn6t"]
+atlas = ExtResource("13_5i4mk")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_yjkr0"]
+atlas = ExtResource("14_35n4x")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_0tco2"]
+atlas = ExtResource("15_ffwiu")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_wy7ud"]
+atlas = ExtResource("16_wqap8")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_1mbsy"]
+atlas = ExtResource("17_foy3k")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_wqu45"]
+atlas = ExtResource("18_o2scq")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_xr6ou"]
+atlas = ExtResource("19_6gn00")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_3f0wk"]
+atlas = ExtResource("20_2bkpb")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_3tyga"]
+atlas = ExtResource("21_dyntl")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_5nrly"]
+atlas = ExtResource("22_t8w81")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_wo6hg"]
+atlas = ExtResource("23_t6j61")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_oc2cq"]
+atlas = ExtResource("24_aren3")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_4m7cn"]
+atlas = ExtResource("25_bbggk")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_meq88"]
+atlas = ExtResource("26_env4c")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_jmgbh"]
+atlas = ExtResource("27_qj03l")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_nmk3l"]
+atlas = ExtResource("28_3xohk")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_t75nv"]
+atlas = ExtResource("29_uyv8x")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_303er"]
+atlas = ExtResource("30_a83mp")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_accvm"]
+atlas = ExtResource("31_t17ks")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_lg13f"]
+atlas = ExtResource("32_3i26v")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_j207g"]
+atlas = ExtResource("33_o8bri")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_6hyc8"]
+atlas = ExtResource("34_jwsxa")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ldlnt"]
+atlas = ExtResource("35_alkxn")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ttlt2"]
+atlas = ExtResource("36_mak1w")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_smj4a"]
+atlas = ExtResource("37_twgro")
+region = Rect2(0, 0, 96, 63)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_576mq"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_5yo7q")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_q0jw8")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_vnrsx")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_eatki")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_f454f")
+}],
+"loop": true,
+"name": &"dive_kick",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_8wxas")
+}],
+"loop": true,
+"name": &"falling",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_x8lkt")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_1tclx")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_hck54")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_jehw4")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ivwp8")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_tiu7a")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_eqn6t")
+}],
+"loop": true,
+"name": &"jumping",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_yjkr0")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0tco2")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_wy7ud")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_1mbsy")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_wqu45")
+}],
+"loop": false,
+"name": &"kick",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_xr6ou")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_3f0wk")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_3tyga")
+}],
+"loop": false,
+"name": &"punch",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_5nrly")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_wo6hg")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_oc2cq")
+}],
+"loop": true,
+"name": &"strong_kick",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_4m7cn")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_meq88")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_jmgbh")
+}],
+"loop": true,
+"name": &"strong_punch",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_nmk3l")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_t75nv")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_303er")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_accvm")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_lg13f")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_j207g")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_6hyc8")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ldlnt")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ttlt2")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_smj4a")
+}],
+"loop": true,
+"name": &"walking",
+"speed": 5.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_phnoq"]
+size = Vector2(18, 40)
+
+[node name="Fighter_1" type="CharacterBody2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_576mq")
+animation = &"idle"
+autoplay = "idle"
+frame_progress = 0.159223
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-4, 10)
+shape = SubResource("RectangleShape2D_phnoq")
